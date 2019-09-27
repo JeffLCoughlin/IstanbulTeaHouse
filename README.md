@@ -1,5 +1,5 @@
 # IstanbulTeaHouse
-Code to calculate best bet on the TeaHouse in the board game Istanbul
+Code to calculate best bet on the TeaHouse in the board game [Istanbul](https://en.wikipedia.org/wiki/Istanbul_(board_game))
 
 Compile via g++ -O2 -o teahouse TeaHouse.cpp
 
