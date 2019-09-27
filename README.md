@@ -14,8 +14,11 @@ To run the code without the Mosque card, set CARD = 0.
 Results with the Mosque card are:
 
 Bet | ChanceOfMakingBet(%) | AvgLiraPerTurn 
+--- | --- | --- 
 2 | 100 | 2
 3 | 100 | 3 
+
+test
 
 4 100 4
 
