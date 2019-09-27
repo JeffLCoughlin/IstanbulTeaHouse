@@ -16,7 +16,6 @@ Results with the Mosque card are:
 Bet  ChanceOfMakingBet(%)  AvgLiraPerTurn
 
 2 100 2
-
 3 100 3
 
 4 100 4
